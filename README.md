@@ -1,8 +1,7 @@
 # Tutorial de Git e Github na prática 
 
-
- * [Link](https://git-scm.com/downloads)
-
+## Instalação do git
+ * [Link com downloads](https://git-scm.com/downloads)
 ## Versionamento local do projeto
 * Acesse a pasta na qual o projeto está armazenado
 * Clique com o botão diereito do mouse eselecione **Open git bash here**
