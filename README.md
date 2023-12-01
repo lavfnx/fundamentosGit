@@ -1,7 +1,7 @@
 # Tutorial de Git e Github na prática 
 
-## Instalação do Git 
- * [Link com downloads](https://git-scm.com/downloads)
+
+ * [Link](https://git-scm.com/downloads)
 
 ## Versionamento local do projeto
 * Acesse a pasta na qual o projeto está armazenado
@@ -66,7 +66,7 @@ O verde com `+` representa o que foi adicionado ao versionamento, enquanto o sin
 
 * Ao retornar para a branch `main`, digite `git merge <nome da nova branch>` (no exemplo acima, seria a branch chamada novoBotao), desse modo será possível **unificar a branch alternativa e a branch principal em uma só**
 
-* Assim, tudo o que tinha de alteraçãõ na branch novoBotao (por exemplo) se juntará á branch `main` 
+* Assim, tudo o que tinha de alteração na branch novoBotao (por exemplo) se juntará á branch `main` 
 
 * Para finalizar digite `git push origin main` e suba os arquivos para a brach principal do repositório remoto
 
