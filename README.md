@@ -55,10 +55,18 @@ O verde com `+` representa o que foi adicionado ao versionamento, enquanto o sin
 `git push -u origin novoBotao` 
 
 
+
 * No Github, as branches aparecerão assim:
 
 <img src="img/imgBranch.PNG">
 
 * Se necessário retornar para a branch `main` pelo terminal do Git, digite `git checkout main`
  
+## Merge 
+
+* Ao retornar para a branch `main`, digite `git merge <nome da nova branch>` (no exemplo acima, seria a branch chamada novoBotao), desse modo será possível **unificar a branch alternativa e a branch principal em uma só**
+
+* Assim, tudo o que tinha de alteraçãõ na branch novoBotao (por exemplo) se juntará á branch `main` 
+
+* Para finalizar digite `git push origin main` e suba os arquivos para a brach principal do repositório remoto
 
