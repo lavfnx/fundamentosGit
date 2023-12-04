@@ -79,3 +79,9 @@ Para fazer o download de um repositório remoto, seu ou de outro usuário, há d
 * 2ª opão: utilizando o mesmo link presente na imagem acima, abra o terminal e digite `git clone <link copiado do repositório remoto>` 
 **Observação**: é importante que ao clonar um repositório de sua própria conta no Github, verifque qual branch no Github está como `default`, pois o **projeto clonado será aquele que se encontra na branch `default`**
 
+## Pull 
+
+ * E se por exemplo o desenvolvedor digitar novos códigos em seu computador de casa e enviá-los para o repositório remoto, perceber ao chegar no trabalho que o projeto na máquina do escritório está desatualizado?
+
+* Para puxar **todas as alterações realizadas do repositório remoto (Github) para o seu repositório local**, digite `git pull`
+
