@@ -85,3 +85,5 @@ Para fazer o download de um repositório remoto, seu ou de outro usuário, há d
 
 * Para puxar **todas as alterações realizadas do repositório remoto (Github) para o seu repositório local**, digite `git pull`
 
+* Testando na prática o git pull
+  
